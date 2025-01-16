@@ -2,7 +2,7 @@
 
 Sejam bem-vindos ao espaço de trabalho com React no GitHub Codespaces! Tudo já está configurado para você explorar o React e aprender com facilidade.
 
-## Tutorial: Jogo da Velha com React
+## Jogo da Velha com React
 
 Para esta aula, o objetivo é aprender React construindo o famoso Jogo da Velha. Siga o tutorial oficial do React:
 
@@ -16,12 +16,22 @@ O tutorial aborda:
 4. **Imutabilidade**: Por que manter os dados imutáveis é importante.
 5. **Aprofundamento no React**: Construção incremental de funcionalidades.
 
-**⚠️Importante!!!** Em vez de utilizar o Sandbox indicado pelo tutorial ou outro ambiente, vamos utilizar o CodeSpace que já está configurado neste repositório. Para iniciar a atividade clique em Code -> Codepaces e inicie um CodeSpace a partir do seu repositório.
+## Passos
 
-Se você não está no seu próprio repositório, clique no link da atividade (assignment) no Github Classrom, que fará automaticamente um _fork_ do repositório.
+Hoje vamos criar um cantinho de desenvolvimento só nosso, fácil de fazer e online pra gente não gastar recurso de máquina. Vamos usar o CodeSpace do GitHub. Com ele vamos construir um pequeno jogo da velha. Não é necessário qualquer conhecimento prévio em React. As técnicas que você aprenderá no tutorial são fundamentais à construção de qualquer aplicativo React, e o entendimento destas lhe dará conhecimentos aprofundados sobre o React.
 
-## Comandos
-Este projeto foi criado usando o [Vite](https://vitejs.dev/).
+**⚠️Importante!!!** Em vez de utilizar o Sandbox indicado pelo tutorial ou outro ambiente, vamos utilizar o CodeSpace que já está configurado neste repositório.
+
+Para iniciar a atividade clique em Code -> Codepaces e inicie um CodeSpace a partir do seu repositório. Veja se está mesmo no seu repositório ou no repositório template da aula. Se você não está no seu próprio repositório, clique no link da atividade (assignment) no Github Classrom, que fará automaticamente um _fork_ do repositório.
+
+Em cada parte do tutorial, você precisará fazer um commit. 
+
+Aqui, nada! Só finalizar. No GitHub Classroom você deve commitar suas alterações e enviar para o repositório online usando:
+`git status`
+`git add .`
+`git status`
+`git commit -m "nome do commit" ` -- use uma mensagem de commit amigável, legível e compreensível. 🙏
+`git push origin main`
 
 ## Scripts Disponíveis
 
@@ -59,3 +69,6 @@ Consulte a seção sobre [implantação](https://facebook.github.io/create-react
 - [Documentação do Vitest](https://vitest.dev/guide/)
 
 Explore, aprenda e divirta-se desenvolvendo com React!
+
+-----
+Este projeto foi criado usando o [Vite](https://vitejs.dev/).
